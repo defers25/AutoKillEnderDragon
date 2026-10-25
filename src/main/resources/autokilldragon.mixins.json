@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.example.autokilldragon.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["EnderDragonEntityMixin"],
+  "injectors": {"defaultRequire": 1}
+}
